@@ -6,6 +6,6 @@ public class File1 {
         int i = 1;
     }
     public File1(String test){
-        int i = 0;
+        int i = 1;
     }
 }
