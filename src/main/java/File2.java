@@ -3,6 +3,6 @@
  */
 public class File2 {
     public File2(){
-        int i = 0;
+        int i = 1;
     }
 }
